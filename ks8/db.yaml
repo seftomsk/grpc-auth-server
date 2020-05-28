@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: link-db
+  name: link-db2
   labels:
     svc: link
     app: postgres
